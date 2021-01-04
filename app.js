@@ -3,6 +3,6 @@ try {
 }
 
 catch (e){
-    alert("L'element " + e.element + "n'existe pas");
+    alert("L'element n'existe pas");
 }
 
